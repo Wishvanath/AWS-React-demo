@@ -1,0 +1,16 @@
+.body-first-wrapper{
+    margin-top: 60px;
+    margin-bottom: 60px;
+    .body-first-inner{
+        padding-left: 60px;
+        padding-right: 60px;
+        .body-first-inner-left{
+            min-height: 800px;
+            background: #F6F6F6;
+        }
+        .body-first-inner-right{
+            min-height: 800px;
+            background: #F6F6F6;
+        }
+    }
+}

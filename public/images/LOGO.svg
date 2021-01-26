@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="204" height="46" viewBox="0 0 204 46">
+  <g id="LOGO" transform="translate(0 4)">
+    <rect id="Rectangle_1" data-name="Rectangle 1" width="98" height="38" transform="translate(106)" fill="#013cc8"/>
+    <text id="BUNK" transform="translate(0 33)" fill="#013cc8" font-size="35" font-family="Roboto-Bold, Roboto" font-weight="700" letter-spacing="0.05em"><tspan x="0" y="0">BUNK</tspan></text>
+    <text id="BYTE" transform="translate(154 28)" fill="#fff" font-size="25" font-family="Roboto-Regular, Roboto" letter-spacing="0.1em"><tspan x="-33.37" y="0">BYTE</tspan></text>
+  </g>
+</svg>

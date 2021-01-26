@@ -1,0 +1,35 @@
+.site-navigation-wrapper{
+    padding-left: 60px;
+    padding-right: 60px;
+}
+.navbar-expand-lg{
+    .navbar-nav{
+        .dropdown-menu{
+            margin-left: -80px;
+            margin-top: 35px;
+        }
+    }
+}
+
+
+.navbar-expand-lg {
+    .navbar-nav{
+        .nav-link{
+            padding-right: 1.5rem;
+            padding-left: 1.5rem;
+            &:hover{
+                background: #013cc8;
+                color: white;
+            }
+        }
+    }
+}
+
+.navbar {
+    padding: 1.5rem 1.5rem;
+}
+
+.bg-light{
+    background:#ffffff !important;
+    border-bottom: 1px solid $website-white-light; 
+}

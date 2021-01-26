@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="317" height="45" viewBox="0 0 317 45">
+  <g id="owner-login-logo" transform="translate(-744 -421)">
+    <rect id="Rectangle_1" data-name="Rectangle 1" width="117" height="36" transform="translate(846 429)" fill="#013cc8"/>
+    <g id="Group_550" data-name="Group 550">
+      <text id="Login" transform="translate(977 457)" font-size="34" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Login</tspan></text>
+      <text id="House_Owner" data-name="House Owner" transform="translate(744 457)" fill="#fff" font-size="34" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="0" fill="#013cc8">House</tspan><tspan y="0" fill="#000"> </tspan><tspan y="0" fill="#fff">Owner</tspan></text>
+    </g>
+  </g>
+</svg>

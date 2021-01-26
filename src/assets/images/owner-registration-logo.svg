@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="338" height="45" viewBox="0 0 338 45">
+  <g id="owner-registration-logo" transform="translate(-744 -421)">
+    <text id="Signup" transform="translate(977 457)" font-size="34" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Signup</tspan></text>
+    <rect id="Rectangle_1" data-name="Rectangle 1" width="117" height="36" transform="translate(846 429)" fill="#013cc8"/>
+    <text id="House_Owner" data-name="House Owner" transform="translate(744 457)" fill="#fff" font-size="34" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="0" fill="#013cc8">House</tspan><tspan y="0" fill="#000"> </tspan><tspan y="0" fill="#fff">Owner</tspan></text>
+  </g>
+</svg>
